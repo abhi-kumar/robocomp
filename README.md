@@ -108,6 +108,7 @@ Drop comments and ask questions in:
 - https://groups.google.com/forum/?hl=es#!forum/robocomp-dev
 - https://gitter.im/robocomp
 
+#Comment added to mention bug report 
 Please, report any bugs to pbustos@unex.es
 
 
